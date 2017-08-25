@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">手机信息采集</string>
+    <string name="title_home">主页</string>
+    <string name="title_file">文件</string>
+    <string name="title_home_configure">配置</string>
+    <string name="title_file_manage">管理</string>
+    <string name="title_back_config">返回</string>
+</resources>
