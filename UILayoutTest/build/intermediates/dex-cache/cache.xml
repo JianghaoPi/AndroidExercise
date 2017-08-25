@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\neoji\.android\build-cache\382487b017a65907c6251edd476bdb1841f7fe5c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1fc708e023161b0dd4d6fa6e7c3dee593c920b55">
+        <dex dex="E:\projects\AndroidStudioProjects\UILayoutTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9de45c57a0ec96019a1546e87143e0c9a7a1035f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\projects\AndroidStudioProjects\UILayoutTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="047d14e29db2bc16c4453a5b92674d34f8ad60a5">
+        <dex dex="E:\projects\AndroidStudioProjects\UILayoutTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_18bc936af5d4e1968b2f1bb2a07f40444e390de8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\projects\AndroidStudioProjects\UILayoutTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\projects\AndroidStudioProjects\UILayoutTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ac4514a0866b85d041290837b0a95ac47cf680e7\classes.dex" />
+    </item>
+
+</items>
